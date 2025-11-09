@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>📫 How to reach...</p>
+<p align="left"> 📚 I'm currently pursuing diploma in electronics engineering. <br>📫 How to reach me biswasshouvik64@gmail.com </p>
 
 ###
 
