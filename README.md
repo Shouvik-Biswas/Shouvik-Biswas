@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate software developer.</p>
+<p align="center">A passionate software developer.</p>
 
 ###
 
