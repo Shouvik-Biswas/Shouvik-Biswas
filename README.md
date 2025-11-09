@@ -9,8 +9,6 @@
 
 <h2 align="left">About me</h2>
 
-###
-
 <p align="left"> 📚 I'm currently pursuing diploma in electronics engineering. <br>📫 How to reach me biswasshouvik64@gmail.com </p>
 
 ###
