@@ -1,8 +1,8 @@
-<h1 align="left">Hey, this is Shouvik Biswas👋</h1>
+<h1 align="center">Hey, this is Shouvik Biswas👋</h1>
 
 ###
 
-<p align="center">A passionate software developer.</p>
+<h3 align="center">A passionate software developer.</p>
 
 ###
 
